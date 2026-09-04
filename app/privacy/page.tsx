@@ -22,6 +22,7 @@ export default function PrivacyPolicy() {
           <ul className="mt-4 list-disc space-y-2 pl-6 text-slate-600">
             <li>Neymar Fake Video Call &amp; Chat</li>
             <li>Messi Fake Video Call &amp; Chat</li>
+            <li>Mbappe Fake Video Call &amp; Chat</li>
           </ul>
 
           <p className="mt-4 leading-7 text-slate-600">
