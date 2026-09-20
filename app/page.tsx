@@ -54,15 +54,15 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured App */}
+      {/* Featured Apps */}
       <section className="mx-auto max-w-6xl px-6 py-16">
         <div className="mb-8">
           <p className="text-sm font-semibold text-blue-600">
-            FEATURED APP
+            FEATURED APPS
           </p>
 
           <h2 className="mt-2 text-3xl font-bold">
-            Neymar Fake Video Call & Chat
+            Fake Video Call & Chat Apps
           </h2>
         </div>
 
@@ -72,25 +72,27 @@ export default function Home() {
           </span>
 
           <p className="mt-6 text-lg font-semibold">
-            An unofficial fan-made entertainment app
+            Unofficial fan-made entertainment apps
           </p>
 
           <p className="mt-3 max-w-3xl leading-7 text-slate-600">
-            Simulates fictional video calls and chats with Neymar for
-            entertainment purposes.
+            A collection of fictional fake video call and chat experiences
+            inspired by popular public figures, created for entertainment
+            purposes.
           </p>
 
           <div className="mt-6 rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-600">
             <strong className="text-slate-900">Disclaimer:</strong>{" "}
-            This app is not affiliated with, endorsed by, or sponsored by
-            Neymar or any official organization associated with him.
+            These apps are unofficial fan-made entertainment applications.
+            They are not affiliated with, endorsed by, or sponsored by the
+            individuals or organizations represented in the apps.
           </div>
 
           <Link
             href="/apps"
             className="mt-7 inline-block font-semibold text-blue-600 hover:text-blue-700"
           >
-            View app details →
+            View all apps →
           </Link>
         </div>
       </section>
