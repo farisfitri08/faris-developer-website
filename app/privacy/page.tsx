@@ -24,6 +24,7 @@ export default function PrivacyPolicy() {
             <li>Neymar Fake Video Call &amp; Chat</li>
             <li>Messi Fake Video Call &amp; Chat</li>
             <li>Mbappe Fake Video Call &amp; Chat</li>
+            <li>Mohamed Salah Fake Video Call &amp; Chat</li>
           </ul>
 
           <p className="mt-4 leading-7 text-slate-600">
