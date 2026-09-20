@@ -23,20 +23,20 @@ export default function Apps() {
           </span>
 
           <h2 className="mt-6 text-2xl font-bold">
-            Neymar Fake Video Call & Chat
+            Fake Video Call & Chat
           </h2>
 
           <p className="mt-4 leading-7 text-slate-600">
-            An unofficial fan-made entertainment app that simulates
-            fictional video calls and chats with Neymar.
+            Unofficial fan-made entertainment apps
           </p>
 
           <div className="mt-6 rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-600">
             <strong className="text-slate-900">
               Disclaimer:
             </strong>{" "}
-            This app is not affiliated with, endorsed by, or sponsored
-            by Neymar or any official organization associated with him.
+            These apps are unofficial fan-made entertainment applications.
+            They are not affiliated with, endorsed by, or sponsored by the
+            individuals or organizations represented in the apps.
           </div>
 
           <button
