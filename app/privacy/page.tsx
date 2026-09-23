@@ -26,7 +26,7 @@ export default function PrivacyPolicy() {
             <li>Mbappe Fake Video Call &amp; Chat</li>
             <li>Mohamed Salah Fake Video Call &amp; Chat</li>
             <li>Haaland Fake Video Call &amp; Chat</li>
-            <li>Tom Holland Fake Video Call &amp; Chat</li>
+            <li>Tom Holland Fake Video Call</li>
             <li>Jimin Fake Video Call &amp; Chat</li>
             <li>Jungkook Fake Video Call &amp;Chat</li>
             <li>Kim Taehyung Fake Video Call</li>
