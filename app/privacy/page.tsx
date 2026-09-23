@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
             Apps Covered
           </h2>
 
-          <ul className="mt-4 list-disc space-y-2 pl-6 text-slate-600">
+          <ol className="mt-4 list-disc space-y-2 pl-6 text-slate-600">
             <li>Cristiano Ronaldo Fake Video Call &amp; Chat</li>
             <li>Neymar Fake Video Call &amp; Chat</li>
             <li>Messi Fake Video Call &amp; Chat</li>
@@ -32,7 +32,7 @@ export default function PrivacyPolicy() {
             <li>Kim Taehyung Fake Video Call</li>
             <li>Kim Seok Jin Fake Video Call</li>
             <li>IShowSpeed Fake Video Call</li>
-          </ul>
+          </ol>
 
           <p className="mt-4 leading-7 text-slate-600">
             This Privacy Policy applies to the apps listed above.
