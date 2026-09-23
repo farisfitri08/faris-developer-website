@@ -32,6 +32,7 @@ export default function PrivacyPolicy() {
             <li>Kim Taehyung Fake Video Call</li>
             <li>Kim Seok Jin Fake Video Call</li>
             <li>IShowSpeed Fake Video Call</li>
+            <li>Shahrukh Khan Fake Video Call</li>
           </ol>
 
           <p className="mt-4 leading-7 text-slate-600">
