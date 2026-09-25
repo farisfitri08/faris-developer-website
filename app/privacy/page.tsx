@@ -34,6 +34,7 @@ export default function PrivacyPolicy() {
             <li>IShowSpeed Fake Video Call</li>
             <li>Shahrukh Khan Fake Video Call</li>
             <li>Lamine Yamal Fake Video Call</li>
+            <li>Justin Bieber Fake Video Call</li>
           </ol>
 
           <p className="mt-4 leading-7 text-slate-600">
