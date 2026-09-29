@@ -35,6 +35,10 @@ export default function PrivacyPolicy() {
             <li>Shahrukh Khan Fake Video Call</li>
             <li>Lamine Yamal Fake Video Call</li>
             <li>Justin Bieber Fake Video Call</li>
+            <li>Cha Eun Woo Fake Video Call</li>
+            <li>Lisa Blackpink Fake Video Call</li>
+            <li>Jennie Kim Fake Video Call</li>
+            <li>Kim Jisoo Fake Video Call &amp;Chat</li>
           </ol>
 
           <p className="mt-4 leading-7 text-slate-600">
