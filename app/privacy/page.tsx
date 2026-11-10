@@ -39,6 +39,8 @@ export default function PrivacyPolicy() {
             <li>Lisa Blackpink Fake Video Call</li>
             <li>Jennie Kim Fake Video Call</li>
             <li>Kim Jisoo Fake Video Call &amp;Chat</li>
+            <li>Rose Fake Video Call &amp;Chat</li>
+            <li>Dwayne Johnson Fake Video Call</li>
           </ol>
 
           <p className="mt-4 leading-7 text-slate-600">
