@@ -41,6 +41,14 @@ export default function PrivacyPolicy() {
             <li>Kim Jisoo Fake Video Call &amp;Chat</li>
             <li>Rose Fake Video Call &amp;Chat</li>
             <li>Dwayne Johnson Fake Video Call</li>
+            <li>Vinicius Junior Fake Call</li>
+            <li>Olivia Rodrigo Fake Video Call</li>
+            <li>LeBron James Fake Video Call</li>
+            <li>Selena Gomez Fake Video Call</li>
+            <li>Dua Lipa Fake Video Call &amp;Chat</li>
+            <li>Robert Downey Jr Fake Call</li>
+            <li>Stephen Curry Fake Video Call</li>
+            <li>John Cena Fake Video Call</li>
           </ol>
 
           <p className="mt-4 leading-7 text-slate-600">
